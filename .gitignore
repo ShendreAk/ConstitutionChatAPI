@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 rag_venv/
 data/
+embeddings/
 # C extensions
 *.so
 

@@ -1,0 +1,14 @@
+fastapi[standard]
+uvicorn
+langchain
+langchain-openai
+langchain-core
+langchain_community
+langchain_huggingface
+docx2txt
+pypdf2
+langchain_chroma
+faiss-cpu
+psychopg2-binary
+
+
